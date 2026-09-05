@@ -816,13 +816,13 @@ display_mode: light
 
 # Configuration for beautifying the content of the article
 beautify:
-  enable: false
+  enable: true
   # Specify the field to beautify (site or post)
   field: post
   # Specify the icon to be used as a prefix for the title, such as '\f0c1'
-  title_prefix_icon:
+  title_prefix_icon: '\f0c1'
   # Specify the color of the title prefix icon, such as '#F47466'
-  title_prefix_icon_color:
+  title_prefix_icon_color: '#ff6699'
 
 # Global font settings
 # Don't modify the following settings unless you know how they work
