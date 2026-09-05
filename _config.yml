@@ -1,12 +1,12 @@
 # Hexo site configuration
 title: JayAshore
-subtitle: 用代码理解世界，用实验验证想法
-description: 记录算法、工程实践与 Agent 思考的个人技术博客
+subtitle: 永远相信美好的事情即将发生！
+description: 永远相信美好的事情即将发生！
 keywords:
   - 算法
   - Agent
   - 工程实践
-author: Blog Author
+author: JayAshore
 language: zh-CN
 timezone: Asia/Shanghai
 
@@ -28,7 +28,7 @@ theme_config:
       button:
         enable: false
     card_announcement:
-      content: 欢迎来到算法与智能体实验室，愿每次实验都留下可复现的结果。
+      content: 永远相信美好的事情即将发生！
   footer:
     owner:
       since: 2026
