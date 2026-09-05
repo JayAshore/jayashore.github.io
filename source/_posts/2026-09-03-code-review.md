@@ -1,6 +1,7 @@
 ---
 title: 一份实用的代码评审清单：先看风险，再看风格
 date: 2026-09-03 18:10:00
+cover: https://cdn.jsdelivr.net/gh/JayAShore/blog-images@main/images/1.jpeg
 categories:
   - 工程实践
 tags:
