@@ -4,7 +4,7 @@
   "private": true,
   "description": "A Hexo blog powered by the Butterfly theme",
   "hexo": {
-    "version": "7.3.0"
+    "version": "8.1.2"
   },
   "scripts": {
     "clean": "hexo clean",
@@ -13,7 +13,7 @@
     "deploy": "hexo deploy"
   },
   "dependencies": {
-    "hexo": "^7.3.0",
+    "hexo": "^8.1.2",
     "hexo-cli": "^4.3.2",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
