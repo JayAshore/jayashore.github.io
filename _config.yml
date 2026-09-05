@@ -10,9 +10,10 @@ author: JayAshore
 language: zh-CN
 timezone: Asia/Shanghai
 
-url: http://localhost:4000
+url: https://jayashore.github.io
 root: /
-permalink: :year/:month/:day/:title/
+# permalink: :year/:month/:day/:title/
+permalink: posts/:name/
 permalink_defaults:
 
 theme: butterfly
