@@ -17,29 +17,22 @@ stick: 1
 
 
 
-#### 自我介绍
-
-#### 请你详细介绍你的AI项目
-
-#### 你如何理解Agent中Harness的概念？
+#### 
 
 
 
-### 你的Agent里面运行了一个长程的任务，它假设平时只允许需要运行5分钟就能结束。然后你新运行了一次，它运行了15-20分钟，也就是说跟之前比有明显的延迟，然后你会怎么分析这个延迟是什么导致的？如何解决上述这个问题？
 
 
 
-### Agent在执行过程中，肯定不可避免地要去调用一些工具，这些工具都有固定地入参，需要模型结合上下文去提供，然后在这个过程中，如何去保障工具调用的可靠性？
 
+# 八股文
 
+[2026最全大模型面经汇总｜Agent面试题、RAG面试题、Transformer面试题合集（含答案解析） | 代码随想录-全网最全算法数据结构刷题学习路线|图文+视频教程|免费开源](https://programmercarl.com/qita/0022.llminterview.html)
 
-### 随着提问轮次的增加，上下文窗口会越来越大，该如何进行解决？
+[github.com/bcefghj/ai-agent-interview-guide](https://github.com/bcefghj/ai-agent-interview-guide)
 
+[2026最全AI大模型面试题 | Agent面试题 | AI应用开发面试题 | 小林coding](https://xiaolincoding.com/project/xiaolinnote.html)
 
+[AI Agent 面试题与八股文汇总：155 道大厂真题按主题拆解（2026 面经） - 面灵AI](https://www.mianlingai.com/topics/ai-agent-interview-questions-2026/)
 
-### 压缩或者摘要肯定会丢失信息，如何使得这个信息丢失最小化？
-
-
-
-### 给定一个数n，如23121；给定一组数字A如{2，4，9}，求由A中元素组成的小于n的最大数，如小于23121的最大数是22999。
-
+[Agent开发八股合集真实面经总结版_牛客网](https://www.nowcoder.com/feed/main/detail/76b321bffc5e460fb316813352d8d950)
