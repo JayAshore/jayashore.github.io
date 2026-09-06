@@ -6,7 +6,7 @@ categories:
 tags:
   - codex
 description: 
-sticky: 0
+sticky: 
 permalink: 
 ---
 

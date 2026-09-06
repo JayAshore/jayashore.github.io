@@ -11,7 +11,7 @@ description: Acwing算法基础课！
 keywords:
 permalink: 
 cover: https://cdn.jsdelivr.net/gh/JayAShore/blog-images@main/images/d3bafbf1-ae80-4e40-90cb-6a9c1e9d3f19.png
-stick:
+sticky:
 ---
 ## 问题描述：
 每一本正式出版的图书都有一个ISBN号码与之对应，ISBN码包括9位数字、1位识别码和3位分隔符，其规定格式如“x-xxx-xxxxx-x”，其中符号“-”是分隔符（键盘上的减号），最后一位是识别码，例如0-670-82162-4就是一个标准的ISBN码。

@@ -11,7 +11,7 @@ description:
 keywords:
 cover: https://cdn.jsdelivr.net/gh/JayAShore/blog-images@main/images/d3bafbf1-ae80-4e40-90cb-6a9c1e9d3f19.png
 permalink: 
-stick:
+sticky:
 ---
 
 ## [AcWing 1574. 接雨水](https://www.acwing.com/problem/content/description/1576/)

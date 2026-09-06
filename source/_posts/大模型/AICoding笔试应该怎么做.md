@@ -9,7 +9,7 @@ tags:
   - Agent
 description: 一网打尽大模型面试习题！
 keywords:
-stick: 1
+sticky:
 permalink: 
 ---
 
