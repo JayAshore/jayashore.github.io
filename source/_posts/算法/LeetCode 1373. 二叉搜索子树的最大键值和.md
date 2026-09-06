@@ -16,6 +16,7 @@ cover: https://cdn.jsdelivr.net/gh/JayAShore/blog-images@main/images/d3bafbf1-ae
 sticky:
 ---
 
+## [LeetCode 1373. 二叉搜索子树的最大键值和](https://www.acwing.com/problem/content/description/1576/)
 
 
 > 在一棵二叉树中，找到**是二叉搜索树 (BST)** 的子树，计算它所有节点值的和，求最大的那个和（允许答案为 0）。二叉搜索树一般都采用递归来做。什么是二叉搜索树？左子树的最大值小于根节点小于右子树的最小值。

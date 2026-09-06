@@ -93,7 +93,7 @@ aside: true
 
 <div class="about-page">
   <section class="about-hero">
-    <h1>JayAShore - 算法与智能体实验室</h1>
+    <h1>JayAShore</h1>
     <p>记录算法、工程实践与 Agent 思考的个人技术博客</p>
     <p class="about-links">
       <a href="https://github.com/JayAShore" target="_blank" rel="noopener noreferrer">GitHub</a>
