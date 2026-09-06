@@ -6,3 +6,5 @@ Thumbs.db
 db.json
 *.log
 /source/images/
+/start-server.bat
+/publish-blog.bat
