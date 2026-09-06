@@ -3,6 +3,7 @@ title: JayAshore
 subtitle: 永远相信美好的事情即将发生！
 description: 永远相信美好的事情即将发生！
 keywords:
+  - 免费
   - 算法
   - Agent
   - 工程实践
@@ -11,7 +12,11 @@ keywords:
   - 前后端
   - 前端开发
   - 后端开发
-  - 免费博客
+  - 经验贴
+  - Java
+  - Python
+  - C++
+
 author: JayAshore
 language: zh-CN
 timezone: Asia/Shanghai
