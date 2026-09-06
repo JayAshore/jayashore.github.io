@@ -1,5 +1,5 @@
 # Hexo site configuration
-title: JayAshore
+title: JayAshoreの博客
 subtitle: 永远相信美好的事情即将发生！
 description: 永远相信美好的事情即将发生！
 keywords:
@@ -35,7 +35,9 @@ theme_config:
     归档: /archives/ || fas fa-archive
     分类: /categories/ || fas fa-folder-open
     标签: /tags/ || fas fa-tags
+    工具: /tools/ || fas fa-toolbox
     关于: /about/ || fas fa-heart
+
   aside:
     card_author:
       button:
