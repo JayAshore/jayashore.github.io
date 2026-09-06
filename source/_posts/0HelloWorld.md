@@ -6,6 +6,7 @@ categories:
 tags:
 description: HelloWorld！
 keywords:
+permalink: 
 ---
 
 # HelloWorld！

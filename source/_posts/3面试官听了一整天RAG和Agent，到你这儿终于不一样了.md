@@ -1,5 +1,5 @@
 ---
-title: AI岗面试正在掉进“同质化陷阱”，怎么才能更好的拿下Agent岗位？
+title: 面试官听了一整天RAG和Agent，到你这儿终于不一样了？
 date: 2026-09-06 10:10:30
 updated: 2026-09-06 10:10:30
 categories:
@@ -12,7 +12,10 @@ description:
 keywords:
 cover: 
 stick: 
+permalink: 
 ---
+
+# AI岗面试正在掉进“同质化陷阱”，怎么才能更好的拿下Agent岗位？
 
 帮一个同学做模拟面试，他简历上写了一个Agent项目，技术栈列得很全：RAG、Function Calling、Memory、ReAct，该有的都有。
 

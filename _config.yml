@@ -6,6 +6,12 @@ keywords:
   - 算法
   - Agent
   - 工程实践
+  - 博客
+  - 大模型
+  - 前后端
+  - 前端开发
+  - 后端开发
+  - 免费博客
 author: JayAshore
 language: zh-CN
 timezone: Asia/Shanghai
@@ -13,7 +19,8 @@ timezone: Asia/Shanghai
 url: https://jayashore.github.io
 root: /
 # permalink: :year/:month/:day/:title/
-permalink: posts/:name/
+# permalink: posts/:hash/
+permalink: posts/:timestamp/
 permalink_defaults:
 
 theme: butterfly

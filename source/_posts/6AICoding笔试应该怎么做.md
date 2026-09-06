@@ -10,6 +10,7 @@ tags:
 description: 一网打尽大模型面试习题！
 keywords:
 stick: 1
+permalink: 
 ---
 
 # 可复用的Prompt
