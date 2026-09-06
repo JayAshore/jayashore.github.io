@@ -1,7 +1,7 @@
 ---
 title: AICoding笔试应该怎么做？
-date: 2026-09-05 20:43:46
-updated: 2026-09-05 20:43:46
+date: 2026-09-05 21:43:46
+updated: 2026-09-05 21:43:46
 categories:
   - 八股文
 tags:

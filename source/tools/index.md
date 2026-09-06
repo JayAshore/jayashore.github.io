@@ -34,6 +34,7 @@ https://www.lddgo.net/common/make-favicon
 
 | 工具 | 用途 |
 | --- | --- |
+| [AcWing - LeetCode究极班](https://www.acwing.com/activity/content/31/) | 找工作         |
 | [LeetCode](https://leetcode.cn/) | 算法刷题 |
 | [AcWing](https://www.acwing.com/) | 算法课程和题库 |
 | [洛谷](https://www.luogu.com.cn/) | 算法竞赛 |

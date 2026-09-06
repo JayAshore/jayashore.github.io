@@ -21,6 +21,10 @@ author: JayAshore
 language: zh-CN
 timezone: Asia/Shanghai
 
+date_format: YYYY-MM-DD HH:mm
+time_format: HH:mm:ss
+
+
 url: https://jayashore.github.io
 root: /
 # permalink: :year/:month/:day/:title/
@@ -43,7 +47,7 @@ theme_config:
       button:
         enable: false
     card_announcement:
-      content: 永远相信美好的事情即将发生！
+      content: 猛更中！
   footer:
     owner:
       since: 2026
